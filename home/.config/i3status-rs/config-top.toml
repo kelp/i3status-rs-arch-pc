@@ -11,7 +11,7 @@ block = "sound"
 
 [[block]]
 block = "time"
-format = "%a %m/%d %R %Z"
+format = "%a %m%d  %T %Z"
 timezone = "US/Pacific"
 interval = 60
 
